@@ -1,18 +1,17 @@
-/* Add a border around the form */
 form {
     border: 1px solid black;
     padding: 10px;
     width: 50%;
     margin: 20px auto;
-    text-align: center; /* Center the text */
-    box-shadow: 0 0 10px rgba(0, 0, 0, 0.2); /* Add a subtle shadow effect */
-    border-radius: 10px; /* Add a slight curve to the form borders */
+    text-align: center; 
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
+    border-radius: 10px; 
 }
 
-/* Center the h1 heading */
+
 h1 {
     text-align: center;
-    color: #333; /* Darken the heading text color */
+    color: #333; 
 }
 
 /* Center the labels and inputs */
@@ -22,11 +21,11 @@ label, input, button {
     text-align: center;
 }
 
-/* Add a gradient background to the body */
+
 body {
     background-image: linear-gradient(to bottom, #68217A, #009E49);
     background-repeat: no-repeat;
     height: 100vh;
     margin: 0;
-    font-family: Arial, sans-serif; /* Set a default font family */
+    font-family: Arial, sans-serif;
 }
